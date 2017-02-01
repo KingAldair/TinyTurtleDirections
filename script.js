@@ -6,5 +6,15 @@
   forward(160);
   left(-154);
   forward(87);
-  left(-116)
-  forward(80)
+  left(-116);
+  forward(90)
+  right(90)
+  forward(77)
+  right(90)
+  forward(52)
+  right(90)
+  forward(160)
+  right(90)
+  forward(52.1)
+  right(90)
+  forward(90)
